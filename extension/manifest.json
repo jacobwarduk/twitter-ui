@@ -1,7 +1,7 @@
 {
-  "name": "Twitter UI",
+  "name": "Twitter UI Fix",
   "version": "0.0.1",
-  "description": "Fixes the stupid border radius properties",
+  "description": "Fixes the stupid rounded buttons, text inputs, and avatars, in the new Twitter user interface",
   "homepage_url": "https://github.com/jacobwarduk/twitter-ui-fix",
   "manifest_version": 2,
   "minimum_chrome_version": "32",
@@ -12,7 +12,7 @@
     "default_icon": "icon-256x256.png"
   },
   "icons": {
-    "256": "icon.png"
+    "256": "icon-256x256.png"
   },
   "content_scripts": [
     {

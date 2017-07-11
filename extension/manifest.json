@@ -1,0 +1,29 @@
+{
+  "name": "Twitter UI",
+  "version": "0.0.1",
+  "description": "Fixes the stupid border radius properties",
+  "homepage_url": "https://github.com/jacobwarduk/twitter-ui",
+  "manifest_version": 2,
+  "minimum_chrome_version": "32",
+  "permissions": [
+    "activeTab"
+  ],
+  "browser_action": {
+    "default_icon": "icon-256x256.png"
+  },
+  "icons": {
+    "256": "icon.png"
+  },
+  "content_scripts": [
+    {
+      "run_at": "document_start",
+      "matches": [
+        "https://twitter.com/*",
+        "http://twitter.com/*"
+      ],
+      "css": [
+        "twitter-ui.css"
+      ]
+    }
+  ]
+}

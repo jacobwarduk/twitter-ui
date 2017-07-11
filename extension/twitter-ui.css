@@ -1,0 +1,15 @@
+/* Fix border-radius of all buttons */
+.EdgeButton {
+    border-radius: 3px !important;
+}
+
+/* Fix border-radius of avatars */
+.avatar {
+    border-radius: 3px !important;
+}
+
+/* Fix border-radius of textarea inputs */
+.u-borderRadiusInherit,
+.RichEditor {
+    border-radius: 3px !important;
+}

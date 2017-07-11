@@ -1,0 +1,21 @@
+{
+  "name": "twitter-ui",
+  "version": "1.0.0",
+  "description": "Fix annoying Twitter UI styles",
+  "main": "README.md",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacobwarduk/twitter-ui.git"
+  },
+  "keywords": [
+    "twitter",
+    "ui"
+  ],
+  "author": "Jacob Ward <jacob@riino.co.uk>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jacobwarduk/twitter-ui/issues"
+  },
+  "homepage": "https://github.com/jacobwarduk/twitter-ui#readme"
+}

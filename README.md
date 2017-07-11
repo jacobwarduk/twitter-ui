@@ -1,5 +1,5 @@
-# Twitter UI
-Fixes the stupid rounded buttons, text inputs, and avatars, in the new Twitter user interface
+# Twitter UI Fix
+Fixes the stupid rounded buttons, text inputs, and avatars, in the new Twitter user interface.
 
 ---
 
